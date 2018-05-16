@@ -29,7 +29,7 @@ public class hitWall : MonoBehaviour
             {
                 agentB.AddReward(0.1f);
             }
-            lastAgentHit = 0;
+            //lastAgentHit = 0;
 
         }
     }
